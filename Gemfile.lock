@@ -1,5 +1,5 @@
 GEM
-  remote: https://mirrors.tuna.tsinghua.edu.cn/rubygems/
+  remote: https://rubygems.org/
   specs:
     Ascii85 (1.1.1)
     addressable (2.8.7)
